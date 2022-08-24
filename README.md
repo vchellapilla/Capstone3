@@ -19,6 +19,5 @@ The goal of this third capstone project is to create a recommendation system bas
 • Data Wrangling/Cleaning<br>
 • Exploratory Data Analysis and Hypothesis Testing<br>
 • Feature Engineering and Data Modeling<br>
-• Creation of a platform for the project<br>
 • Data Visualization and Presentation</p>
 
