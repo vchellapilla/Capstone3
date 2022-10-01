@@ -15,7 +15,7 @@ The goal of this third capstone project is to create a recommendation system bas
 <p>The target audience for this project is Letterboxd users. </p>
 
 <h3>Envisioned Approach</h3>
-<p>Creating a recommendation system based on collaborative filtering (using a matrix factorization-based model or KNN) that provides users with movie recommendations based on their movie history and past reviews/ratings. Steps in the process include:<br>
+<p>Creating a recommendation system based on user-based, model-based collaborative filtering that provides users with movie recommendations based on their past reviews/ratings and how that compares to similar users with similar preferences. Steps in the process include:<br>
 • Data Wrangling/Cleaning<br>
 • Exploratory Data Analysis and Hypothesis Testing<br>
 • Feature Engineering and Data Modeling<br>
